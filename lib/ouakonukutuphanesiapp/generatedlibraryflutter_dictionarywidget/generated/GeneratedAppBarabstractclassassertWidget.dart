@@ -25,7 +25,8 @@ class GeneratedAppBarabstractclassassertWidget extends StatelessWidget {
 ''',
             ),
             TextSpan(
-              text: '''appBar
+              text: '''
+              
 abstract class
 assert
 ''',
