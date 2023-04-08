@@ -2,23 +2,21 @@
 
 Konu Kütüphanesi uygulaması, Oyun ve Uygulama Akademisi AppJam kapsamında F-25 Ekibi Üyeleri Tarafından Geliştirilmiştir.
 
-### Getting Started: FlutLab - Flutter Online IDE
+### Konu Kütüphanesini kullanmaya başlamadan önce ! 
 
-- Watch Mini crash course "How to use Flutter Widgets” on [FlutLab Youtube Channel](https://www.youtube.com/channel/UC7ZOPQm4JFlvBc9WeynLX_g)
-- Discover a marketplace of ready-to-use Flutter projects [FlutLab Widget Bay](https://widgetbay.flutlab.io/)
-- Join the discussion and conversation on [FlutLab Facebook Group](https://www.facebook.com/groups/flutlab/)
+- Konu kütüphanesini kursiyerlerin eğitim araçlarına ulaşmasını kolaylaştırmak amacıyla tasarladık.
+- Uygulamanın aktif sayfaları günden güne yenilenecektir. Kullanılmayan bir buton varsa üzülme o da gelecek :)
 
-If you have some questions regarding FlutLab, you can ask on [FlutLab FAQ](https://faq.flutlab.io/)
+Uyguluma kullanımı ile ilgili bir sorun yaşarsanız lütfen bizimle iletişime geçin.
 
 ### Getting Started: Flutter
 
-This project is a starting point for a Flutter application.
+Bu projenin geliştirme aşamasında olduğunu unutmayın.
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Ekip üyeleriyle iletişim için...
 
-For help getting started with Flutter, view
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
