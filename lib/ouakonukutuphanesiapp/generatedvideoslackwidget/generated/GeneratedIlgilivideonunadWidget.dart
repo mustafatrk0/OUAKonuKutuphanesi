@@ -7,13 +7,13 @@ class GeneratedIlgilivideonunadWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Text(
-      '''ilgili videonun adı:
+      '''async/await ile Senkron Gibi Asenkron Kod Yazma
 ''',
       overflow: TextOverflow.visible,
       textAlign: TextAlign.left,
       style: TextStyle(
         height: 1.5,
-        fontSize: 24.0,
+        fontSize: 14.0,
         fontFamily: 'Poppins',
         fontWeight: FontWeight.w600,
         color: Color.fromARGB(255, 38, 50, 56),
