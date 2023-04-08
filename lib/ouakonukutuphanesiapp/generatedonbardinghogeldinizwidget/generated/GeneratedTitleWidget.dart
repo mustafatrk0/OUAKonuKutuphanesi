@@ -7,7 +7,7 @@ class GeneratedTitleWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Text(
-      '''konu kütüphanesine Hoşgeldin!''',
+      '''Konu Kütüphanesine Hoşgeldin!''',
       overflow: TextOverflow.visible,
       textAlign: TextAlign.center,
       style: TextStyle(
