@@ -13,17 +13,16 @@ class GeneratedRectangle9Widget extends StatelessWidget {
     ),);
   @override
   Widget build(BuildContext context) {
-    return Container(
-      width: 320.0,
-      height: 182.03591918945312,
-      child: ClipRRect(
-        borderRadius: BorderRadius.zero,
-        child: Container(
-          color: Color.fromARGB(255, 245, 44, 44),
-            child: YoutubePlayer(controller: _controller, showVideoProgressIndicator: true, progressIndicatorColor: Colors.blueAccent)
-
+    return Scaffold(
+      body: Center(
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.center,
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: <Widget>[
+            YoutubePlayer(controller: _controller,
+              showVideoProgressIndicator: true,
+              progressIndicatorColor: Colors.blueAccent,)
+          ],
         ),
-      ),
-    );
-  }
-}
+      ),);
+  }}
