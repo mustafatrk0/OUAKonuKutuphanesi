@@ -25,17 +25,12 @@ Lütfen bu projenin `davranış kurallarına` uyun.
 
 Ekip üyeleriyle iletişim için...
 
-Cihat Mehmet Ordul
 
-https://www.linkedin.com/in/cihat-mehmet-ordul-a8a636258
+[Cihat Mehmet Ordul](https://www.linkedin.com/in/cihat-mehmet-ordul-a8a636258)
 
-Mehmet Ergül
+[Mehmet Ergül](https://linkedin.com/in/mustafaergül)
 
-linkedin.com/in/mustafaergül
-
-Tahir Metehan Eren
-
-linkedin.com/in/tahirmetehaneren
+[Tahir Metehan Eren](https://linkedin.com/in/tahirmetehaneren)
 
 
 
