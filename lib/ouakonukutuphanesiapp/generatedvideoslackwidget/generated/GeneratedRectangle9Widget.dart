@@ -20,7 +20,8 @@ class GeneratedRectangle9Widget extends StatelessWidget {
         borderRadius: BorderRadius.zero,
         child: Container(
           color: Color.fromARGB(255, 245, 44, 44),
-            child: YoutubePlayer(controller: _controller, showVideoProgressIndicator: true, progressIndicatorColor: Colors.blueAccent,)
+            child: YoutubePlayer(controller: _controller, showVideoProgressIndicator: true, progressIndicatorColor: Colors.blueAccent)
+
         ),
       ),
     );

@@ -17,7 +17,7 @@ import 'package:flutterapp/ouakonukutuphanesiapp/generatedvideoslackwidget/Gener
 import 'package:flutterapp/ouakonukutuphanesiapp/generatediphone13mini1widget/GeneratedIPhone13mini1Widget.dart';
 import 'package:flutterapp/ouakonukutuphanesiapp/generatedlibraryflutter_dictionarywidget/GeneratedLibraryFlutter_DictionaryWidget.dart';
 import 'package:flutterapp/ouakonukutuphanesiapp/generateduygulamagelitiricilerinletiimvesorucevapkanalwidget/GeneratedUygulamaGelitiricilerinletiimveSoruCevapKanalWidget.dart';
-
+import 'package:flutter/services.dart';
 void main() {
   runApp(OUAKonuKutuphanesiApp());
 }
@@ -25,7 +25,9 @@ void main() {
 class OUAKonuKutuphanesiApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
+    SystemChrome.setEnabledSystemUIOverlays([]);
     return MaterialApp(
+      debugShowCheckedModeBanner: false, // debug yazısını kaldırır
       title: 'Flutter Demo',
       theme: ThemeData(
         primarySwatch: Colors.blue,
