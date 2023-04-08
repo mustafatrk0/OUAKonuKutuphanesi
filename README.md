@@ -24,11 +24,17 @@ Lütfen bu projenin `davranış kurallarına` uyun.
 ## Iletisim
 
 Ekip üyeleriyle iletişim için...
+
 Cihat Mehmet Ordul
+
 https://www.linkedin.com/in/cihat-mehmet-ordul-a8a636258
+
 Mehmet Ergül
+
 linkedin.com/in/mustafaergül
+
 Tahir Metehan Eren
+
 linkedin.com/in/tahirmetehaneren
 
 
