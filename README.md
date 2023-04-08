@@ -13,9 +13,13 @@ Uyguluma kullanımı ile ilgili bir sorun yaşarsanız lütfen bizimle iletişim
 
 Bu projenin geliştirme aşamasında olduğunu unutmayın.
 
-A few resources to get you started if this is your first Flutter project:
+## Katkı
 
-![](https://img.shields.io/github/stars/mustafatrk0/OUAKonuKutuphanesi.git) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
+Katkılara her zaman açığız!
+
+Başlamak `Contributor.md'ye bakın.
+
+Lütfen bu projenin `davranış kurallarına` uyun.
 
 
 Ekip üyeleriyle iletişim için...
