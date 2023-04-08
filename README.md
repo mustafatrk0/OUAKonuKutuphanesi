@@ -21,6 +21,7 @@ Başlamak `Contributor.md'ye bakın.
 
 Lütfen bu projenin `davranış kurallarına` uyun.
 
+## Iletisim
 
 Ekip üyeleriyle iletişim için...
 
