@@ -13,10 +13,29 @@ Uyguluma kullanımı ile ilgili bir sorun yaşarsanız lütfen bizimle iletişim
 
 Bu projenin geliştirme aşamasında olduğunu unutmayın.
 
-A few resources to get you started if this is your first Flutter project:
+## Katkı
+
+Katkılara her zaman açığız!
+
+Başlamak `Contributor.md'ye bakın.
+
+Lütfen bu projenin `davranış kurallarına` uyun.
+
+## Iletisim
 
 Ekip üyeleriyle iletişim için...
 
+Cihat Mehmet Ordul
+
+https://www.linkedin.com/in/cihat-mehmet-ordul-a8a636258
+
+Mehmet Ergül
+
+linkedin.com/in/mustafaergül
+
+Tahir Metehan Eren
+
+linkedin.com/in/tahirmetehaneren
 
 
 
