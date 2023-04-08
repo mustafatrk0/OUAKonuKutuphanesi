@@ -31,7 +31,7 @@ https://www.linkedin.com/in/cihat-mehmet-ordul-a8a636258
 
 Mehmet Ergül
 
-linkedin.com/in/mustafaergül
+<link>linkedin.com/in/mustafaergül</link>
 
 Tahir Metehan Eren
 
