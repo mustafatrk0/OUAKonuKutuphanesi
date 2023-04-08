@@ -1,0 +1,83 @@
+description: "A new Flutter application."
+name: "flutterapp"
+publish_to: "none"
+version: "1.0.0+1"
+dependencies: 
+  cupertino_icons: "^1.0.5"
+  path_drawing: "^1.0.0"
+  flutter: 
+    sdk: "flutter"
+dev_dependencies: 
+  flutter_test: 
+    sdk: "flutter"
+environment: 
+  sdk: ">=2.12.0 <3.0.0"
+flutter: 
+  assets: 
+    - "assets/images/"
+  fonts: 
+    - 
+      family: "Inter"
+      fonts: 
+        - 
+          asset: "fonts/Inter-700.ttf"
+          style: "normal"
+          weight: 700
+        - 
+          asset: "fonts/Inter-regular.ttf"
+          style: "normal"
+          weight: 400
+        - 
+          asset: "fonts/Inter-600.ttf"
+          style: "normal"
+          weight: 600
+    - 
+      family: "Poppins"
+      fonts: 
+        - 
+          asset: "fonts/Poppins-600.ttf"
+          style: "normal"
+          weight: 600
+        - 
+          asset: "fonts/Poppins-regular.ttf"
+          style: "normal"
+          weight: 400
+        - 
+          asset: "fonts/Poppins-500.ttf"
+          style: "normal"
+          weight: 500
+        - 
+          asset: "fonts/Poppins-800.ttf"
+          style: "normal"
+          weight: 800
+        - 
+          asset: "fonts/Poppins-600italic.ttf"
+          style: "italic"
+          weight: 600
+    - 
+      family: "DM Sans"
+      fonts: 
+        - 
+          asset: "fonts/DMSans-500.ttf"
+          style: "normal"
+          weight: 500
+        - 
+          asset: "fonts/DMSans-700.ttf"
+          style: "normal"
+          weight: 700
+    - 
+      family: "Roboto"
+      fonts: 
+        - 
+          asset: "fonts/Roboto-regular.ttf"
+          style: "normal"
+          weight: 800
+        - 
+          asset: "fonts/Roboto-500.ttf"
+          style: "normal"
+          weight: 500
+        - 
+          asset: "fonts/Roboto-700.ttf"
+          style: "normal"
+          weight: 700
+  uses-material-design: true

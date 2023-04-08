@@ -1,0 +1,4 @@
+#Sat Apr 08 23:39:58 TRT 2023
+base.0=C\:\\Users\\Mustafa\\Desktop\\eskioua\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
