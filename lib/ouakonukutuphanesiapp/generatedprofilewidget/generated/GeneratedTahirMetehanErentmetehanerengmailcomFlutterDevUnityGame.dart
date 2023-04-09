@@ -23,7 +23,7 @@ class GeneratedTahirMetehanErentmetehanerengmailcomFlutterDevUnityGame
           children: [
             TextSpan(
               text: '''Tahir Metehan Eren
-tmetehaneren@gmail.com
+tmete@oua.com
 ''',
             ),
             TextSpan(

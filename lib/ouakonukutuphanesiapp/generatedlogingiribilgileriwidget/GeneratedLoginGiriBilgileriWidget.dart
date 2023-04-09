@@ -544,9 +544,18 @@ class GeneratedButtonLargePrimaryWidget extends StatelessWidget {
       onTap: () {
         if (_email == 'tahir@oua.com' && _pass == '12345') {
           Navigator.pushNamed(context, '/GeneratedLibraryDerslerWidget');
-        } else {
-          String message = 'E-posta veya şifre yanlış.';
-          print(message);
+        }
+        else if(_email =='' && _pass==''){
+          var alert = AlertDialog(
+              title: Text('Hata!'),
+        content: Text('E-mail veya şifre girilmedi'),);
+          showDialog(context: context, builder:(BuildContext)=>alert);
+        }
+        else {
+          var alert = AlertDialog(
+         title: Text('Hata!'),
+          content: Text('E-mail veya şifre hatalı'),);
+          showDialog(context: context, builder:(BuildContext)=>alert);
         }
       },
       child: Container(
