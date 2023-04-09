@@ -32,7 +32,7 @@ Ekip üyeleriyle iletişim için...
 
 [Tahir Metehan Eren](https://linkedin.com/in/tahirmetehaneren)
 
-[Çağla Nur Sorgun](https://www.linkedin.com/in/%C3%A7a%C4%9Flanursorkun)
+[Çağla Nur Sorkun](https://www.linkedin.com/in/%C3%A7a%C4%9Flanursorkun)
 
 [Seray Öztürk](https://www.linkedin.com/in/seray-öztürk?trk)
 
