@@ -1,5 +1,9 @@
 # OUAKonuKutuphanesi
 
+## UYGULAMA GİRİŞ BİLGİLERİ 
+<h1>MAİL   : tahir@oua.com<br>
+ŞİFRE  : 12345</h1>
+
 Konu Kütüphanesi uygulaması, Oyun ve Uygulama Akademisi AppJam kapsamında F-25 Ekibi Üyeleri Tarafından Geliştirilmiştir.
 
 ### Konu Kütüphanesini kullanmaya başlamadan önce ! 
