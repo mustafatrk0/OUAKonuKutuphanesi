@@ -9,7 +9,7 @@ class GeneratedTextWidget3 extends StatelessWidget {
     return Align(
       alignment: Alignment.centerLeft,
       child: Text(
-        '''Text''',
+        '''  Text''',
         overflow: TextOverflow.visible,
         textAlign: TextAlign.left,
         style: TextStyle(
