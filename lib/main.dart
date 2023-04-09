@@ -18,7 +18,11 @@ import 'package:flutterapp/ouakonukutuphanesiapp/generatediphone13mini1widget/Ge
 import 'package:flutterapp/ouakonukutuphanesiapp/generatedlibraryflutter_dictionarywidget/GeneratedLibraryFlutter_DictionaryWidget.dart';
 import 'package:flutterapp/ouakonukutuphanesiapp/generateduygulamagelitiricilerinletiimvesorucevapkanalwidget/GeneratedUygulamaGelitiricilerinletiimveSoruCevapKanalWidget.dart';
 import 'package:flutter/services.dart';
-void main() {
+import 'package:firebase_core/firebase_core.dart';
+
+void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  await Firebase.initializeApp();
   runApp(OUAKonuKutuphanesiApp());
 }
 

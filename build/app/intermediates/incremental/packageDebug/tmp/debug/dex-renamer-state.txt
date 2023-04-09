@@ -1,4 +1,4 @@
-#Sun Apr 09 01:22:13 TRT 2023
-base.0=C\:\\src\\OUAKonuKutuphanesi\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+#Sun Apr 09 03:20:26 TRT 2023
+base.0=C\:\\Users\\Mustafa\\Desktop\\eskioua\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
