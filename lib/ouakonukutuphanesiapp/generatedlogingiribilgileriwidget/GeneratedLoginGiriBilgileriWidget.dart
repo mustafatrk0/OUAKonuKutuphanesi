@@ -542,7 +542,7 @@ class GeneratedButtonLargePrimaryWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return GestureDetector(
       onTap: () {
-        if (_email == 'test' && _pass == '12345') {
+        if (_email == 'tahir@oua.com' && _pass == '12345') {
           Navigator.pushNamed(context, '/GeneratedLibraryDerslerWidget');
         } else {
           String message = 'E-posta veya şifre yanlış.';

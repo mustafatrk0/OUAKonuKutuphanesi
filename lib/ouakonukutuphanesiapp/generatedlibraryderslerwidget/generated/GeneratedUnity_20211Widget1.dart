@@ -23,7 +23,6 @@ class GeneratedUnity_20211Widget1 extends StatelessWidget {
             child: Image.asset(
               "assets/images/f21a5d4f453348bfa8a84411f4fb10e7",
               color: null,
-              fit: BoxFit.fill,
               width: 120.30120849609375,
               height: 69.9957046508789,
               colorBlendMode: BlendMode.dstATop,

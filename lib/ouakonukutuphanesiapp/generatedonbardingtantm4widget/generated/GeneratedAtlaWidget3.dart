@@ -10,12 +10,12 @@ class GeneratedAtlaWidget3 extends StatelessWidget {
       onTap: () =>
           Navigator.pushNamed(context, '/GeneratedLoginGiriBilgileriWidget'),
       child: Text(
-        '''Hemen Kaydol!''',
+        '''  Hemen Giriş Yap!''',
         overflow: TextOverflow.visible,
         textAlign: TextAlign.left,
         style: TextStyle(
           height: 1.5,
-          fontSize: 21.0,
+          fontSize: 17.0,
           fontFamily: 'Poppins',
           fontWeight: FontWeight.w800,
           color: Color.fromARGB(255, 132, 132, 135),
